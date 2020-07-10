@@ -5,6 +5,7 @@ IMG {BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px}
 .title A {PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #000066; FONT-SIZE: 18px; PADDING-TOP: 5px}
 .headr {display: inline; float: right; padding-right: 25px; padding-top: 25px; text-align:right;}
 .dater {display: inline; float: right; padding-top: 15px; text-align:right; FONT-SIZE: 12px;}
+.pricer {display: inline; float: right; padding-top: 1px; text-align:right; FONT-SIZE: 22px; font-weight: bold;COLOR: #000066;}
 .navr {text-align:right; float: right; padding-right: 25px;}
 
 
@@ -75,4 +76,3 @@ ul.links li:before { float: left; width: 0; white-space: nowrap;
  ". . . . . . . . . . . . . . . . . . . . "}
 ul.links span:first-child { padding-right: 0.33em; background: #EEEEEE;}
 ul.links span + span {float: right; padding-left: 0.33em; background: #EEEEEE; font-weight:bold;}
-
