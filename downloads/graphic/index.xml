@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>downloads on Aurora Computer Center</title>
+    <link>https://www.auroracomputercenter.com/downloads/graphic/</link>
+    <description>Recent content in downloads on Aurora Computer Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.auroracomputercenter.com/downloads/graphic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scribus (Desktop Publishing)</title>
+      <link>https://www.auroracomputercenter.com/downloads/graphic/scribus/</link>
+      <pubDate>Sat, 11 Jul 2020 21:41:34 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/graphic/scribus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irfanview (Graphic Viewer)</title>
+      <link>https://www.auroracomputercenter.com/downloads/graphic/irfanview/</link>
+      <pubDate>Sat, 11 Jul 2020 21:21:21 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/graphic/irfanview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inkscape (Graphical Editor)</title>
+      <link>https://www.auroracomputercenter.com/downloads/graphic/inkscape/</link>
+      <pubDate>Sat, 11 Jul 2020 21:19:09 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/graphic/inkscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIMP (Image Editor)</title>
+      <link>https://www.auroracomputercenter.com/downloads/graphic/gimp/</link>
+      <pubDate>Sat, 11 Jul 2020 17:23:23 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/graphic/gimp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

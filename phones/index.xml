@@ -11,5 +11,68 @@
 	<atom:link href="https://www.auroracomputercenter.com/phones/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>S206</title>
+      <link>https://www.auroracomputercenter.com/phones/s206/</link>
+      <pubDate>Sat, 11 Jul 2020 15:54:35 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/phones/s206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S305</title>
+      <link>https://www.auroracomputercenter.com/phones/s305/</link>
+      <pubDate>Sat, 11 Jul 2020 15:58:51 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/phones/s305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S406</title>
+      <link>https://www.auroracomputercenter.com/phones/s406/</link>
+      <pubDate>Sat, 11 Jul 2020 15:58:59 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/phones/s406/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S505</title>
+      <link>https://www.auroracomputercenter.com/phones/s505/</link>
+      <pubDate>Sat, 11 Jul 2020 15:59:12 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/phones/s505/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S705</title>
+      <link>https://www.auroracomputercenter.com/phones/s705/</link>
+      <pubDate>Sat, 11 Jul 2020 15:59:19 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/phones/s705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exp100</title>
+      <link>https://www.auroracomputercenter.com/phones/exp100/</link>
+      <pubDate>Sat, 11 Jul 2020 15:59:33 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/phones/exp100/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dc210</title>
+      <link>https://www.auroracomputercenter.com/phones/dc210/</link>
+      <pubDate>Sat, 11 Jul 2020 15:59:49 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/phones/dc210/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

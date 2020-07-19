@@ -1,136 +1,743 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>http://www.auroracomputercenter.com/</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/services.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/products.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/phones.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/systems.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/downloads1.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/downloads2.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/downloads3.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/support.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/hardware.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/software.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/links1.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/links2.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/links3.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/links4.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/links5.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/links6.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/links7.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/contact.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/contacto.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/media.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>http://www.auroracomputercenter.com/employment.html</loc>
-<lastmod>2020-07-05</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/systems/uc25/</loc>
+    <lastmod>2020-07-11T16:44:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/s206/</loc>
+    <lastmod>2020-07-11T15:54:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/products/ryzen3/</loc>
+    <lastmod>2020-07-11T15:27:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/systems/uc40/</loc>
+    <lastmod>2020-07-11T16:44:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/s305/</loc>
+    <lastmod>2020-07-11T15:58:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/products/ryzen3200g/</loc>
+    <lastmod>2020-07-11T15:34:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/systems/uc60/</loc>
+    <lastmod>2020-07-11T16:44:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/s406/</loc>
+    <lastmod>2020-07-11T15:58:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/products/ryzen3400g/</loc>
+    <lastmod>2020-07-11T15:38:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/s505/</loc>
+    <lastmod>2020-07-11T15:59:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/products/custom/</loc>
+    <lastmod>2020-07-11T15:41:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/s705/</loc>
+    <lastmod>2020-07-11T15:59:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/exp100/</loc>
+    <lastmod>2020-07-11T15:59:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/dc210/</loc>
+    <lastmod>2020-07-11T15:59:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/willowtracepartments/</loc>
+    <lastmod>2020-07-19T14:43:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/webersports/</loc>
+    <lastmod>2020-07-19T14:42:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/villageprohardware/</loc>
+    <lastmod>2020-07-19T14:41:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/vevayassemblychurch/</loc>
+    <lastmod>2020-07-19T14:40:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/thirdandmain/</loc>
+    <lastmod>2020-07-19T14:39:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/cottagebar/</loc>
+    <lastmod>2020-07-19T14:37:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/stmarysschool/</loc>
+    <lastmod>2020-07-19T14:36:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/stjohnlutheranschool/</loc>
+    <lastmod>2020-07-19T14:35:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/specialtyadhesives/</loc>
+    <lastmod>2020-07-19T14:34:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/seibr/</loc>
+    <lastmod>2020-07-19T14:32:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/signstore/</loc>
+    <lastmod>2020-07-19T14:30:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/rullmanhungerfuneralhome/</loc>
+    <lastmod>2020-07-19T14:29:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/riversidetile/</loc>
+    <lastmod>2020-07-19T14:26:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/principledchiro/</loc>
+    <lastmod>2020-07-19T14:25:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/mooresveterinaryclinic/</loc>
+    <lastmod>2020-07-19T14:23:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/marklandfuneral/</loc>
+    <lastmod>2020-07-19T14:22:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/lischkgemotors/</loc>
+    <lastmod>2020-07-19T14:21:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/leisurepool/</loc>
+    <lastmod>2020-07-19T14:20:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/laugheryvalleyvet/</loc>
+    <lastmod>2020-07-19T14:19:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/sinclair/</loc>
+    <lastmod>2020-07-19T14:17:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/iga/</loc>
+    <lastmod>2020-07-19T14:16:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/hoosierautorepair/</loc>
+    <lastmod>2020-07-19T14:14:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/hillforest/</loc>
+    <lastmod>2020-07-19T14:13:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/haagford/</loc>
+    <lastmod>2020-07-19T14:11:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/gamblesfurniture/</loc>
+    <lastmod>2020-07-19T14:09:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/fixturesusa/</loc>
+    <lastmod>2020-07-19T14:07:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/firstpresbyterianchurch/</loc>
+    <lastmod>2020-07-19T14:07:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/firstbaptistchurchaurora/</loc>
+    <lastmod>2020-07-19T14:06:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/devriesfuneralhome/</loc>
+    <lastmod>2020-07-19T14:04:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/eaglecountry/</loc>
+    <lastmod>2020-07-19T14:03:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/douglasruter/</loc>
+    <lastmod>2020-07-19T14:01:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/denmureandmoore/</loc>
+    <lastmod>2020-07-19T14:00:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/goodwinlandscaping/</loc>
+    <lastmod>2020-07-19T13:58:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/communityfellowshipchurch/</loc>
+    <lastmod>2020-07-19T13:57:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/cityoflawrenceburg/</loc>
+    <lastmod>2020-07-19T13:54:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/campshore/</loc>
+    <lastmod>2020-07-19T13:51:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/candjjewelry/</loc>
+    <lastmod>2020-07-19T13:49:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/brumblaygardens/</loc>
+    <lastmod>2020-07-19T13:47:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/antivirus/norton/</loc>
+    <lastmod>2020-07-12T13:47:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/audacity/</loc>
+    <lastmod>2020-07-12T08:36:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/kmymoney/</loc>
+    <lastmod>2020-07-12T08:12:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/homebank/</loc>
+    <lastmod>2020-07-12T08:05:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/gnucash/</loc>
+    <lastmod>2020-07-12T08:01:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/browsers/ublockorigin/</loc>
+    <lastmod>2020-07-11T22:32:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/itunes/</loc>
+    <lastmod>2020-07-11T22:28:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/zoom/</loc>
+    <lastmod>2020-07-11T22:17:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/skype/</loc>
+    <lastmod>2020-07-11T22:14:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/openoffice/</loc>
+    <lastmod>2020-07-11T22:07:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/notepad/</loc>
+    <lastmod>2020-07-11T22:04:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/browsers/edge/</loc>
+    <lastmod>2020-07-11T22:01:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/davinci/</loc>
+    <lastmod>2020-07-11T21:59:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/kdenlive/</loc>
+    <lastmod>2020-07-11T21:57:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/lastpass/</loc>
+    <lastmod>2020-07-11T21:52:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/keepass/</loc>
+    <lastmod>2020-07-11T21:51:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/vlc/</loc>
+    <lastmod>2020-07-11T21:49:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/thunderbird/</loc>
+    <lastmod>2020-07-11T21:47:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/graphic/scribus/</loc>
+    <lastmod>2020-07-11T21:41:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/msoffice/</loc>
+    <lastmod>2020-07-11T21:37:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/libreoffice/</loc>
+    <lastmod>2020-07-11T21:33:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/antivirus/kaspersky/</loc>
+    <lastmod>2020-07-11T21:23:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/graphic/irfanview/</loc>
+    <lastmod>2020-07-11T21:21:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/graphic/inkscape/</loc>
+    <lastmod>2020-07-11T21:19:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/dropbox/</loc>
+    <lastmod>2020-07-11T17:58:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/onedrive/</loc>
+    <lastmod>2020-07-11T17:58:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/icloud/</loc>
+    <lastmod>2020-07-11T17:55:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/googledrive/</loc>
+    <lastmod>2020-07-11T17:51:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/gaming/roblox/</loc>
+    <lastmod>2020-07-11T17:47:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/gaming/gog/</loc>
+    <lastmod>2020-07-11T17:45:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/gaming/steam/</loc>
+    <lastmod>2020-07-11T17:42:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/gaming/discord/</loc>
+    <lastmod>2020-07-11T17:40:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/adobereader/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/asope/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/asus/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/atom/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/aurorafarmgarden/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/auroralionsclub/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/aurorarecycling/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/auroratirecenter/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/bantaelectrical/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/boohertaylor/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/brave/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/brother/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/brownroofing/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/firefox/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/gigabyte/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/auroralumber/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/gimp/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/chrome/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/hp/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/impactsports/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/microsoft/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/edge/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/office365/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/microsoft/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/msi/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/netgear/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/nvidia/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/aurorafloralshop/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/skype/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/thunderbird/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/trendnet/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/windows10/</loc>
+    <lastmod>2020-07-11T17:31:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/handbrake/</loc>
+    <lastmod>2020-07-11T17:28:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/browsers/chrome/</loc>
+    <lastmod>2020-07-11T17:25:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/graphic/gimp/</loc>
+    <lastmod>2020-07-11T17:23:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/browsers/brave/</loc>
+    <lastmod>2020-07-11T17:21:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/browsers/firefox/</loc>
+    <lastmod>2020-07-11T17:16:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/gaming/epic/</loc>
+    <lastmod>2020-07-11T08:51:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/antivirus/bitdefender/</loc>
+    <lastmod>2020-07-10T09:36:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/adobe_acrobat/</loc>
+    <lastmod>2020-07-10T09:26:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/holiday_hours/</loc>
+    <lastmod>2020-06-27T10:53:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/password_security/</loc>
+    <lastmod>2020-06-22T09:40:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/indianabackontrack/</loc>
+    <lastmod>2020-05-02T09:40:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/zoom/</loc>
+    <lastmod>2020-04-02T09:40:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/links/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/employment/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/contact/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/media/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/antivirus/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/browsers/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/gaming/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/graphic/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/downloads/productivity/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/software/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/support/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/services/</loc>
+    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/phones/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/products/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/systems/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/tags/</loc>
+  </url>
+  
 </urlset>

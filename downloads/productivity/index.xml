@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>downloads on Aurora Computer Center</title>
+    <link>https://www.auroracomputercenter.com/downloads/productivity/</link>
+    <description>Recent content in downloads on Aurora Computer Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.auroracomputercenter.com/downloads/productivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skype (Video Conferencing)</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/skype/</link>
+      <pubDate>Sat, 11 Jul 2020 22:14:31 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/skype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenOffice by Apache</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/openoffice/</link>
+      <pubDate>Sat, 11 Jul 2020 22:07:54 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/openoffice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Email Client</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/thunderbird/</link>
+      <pubDate>Sat, 11 Jul 2020 21:47:08 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/thunderbird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Office 365</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/msoffice/</link>
+      <pubDate>Sat, 11 Jul 2020 21:37:38 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/msoffice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libre Office</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/libreoffice/</link>
+      <pubDate>Sat, 11 Jul 2020 21:33:08 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/libreoffice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onedrive</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/onedrive/</link>
+      <pubDate>Sat, 11 Jul 2020 17:58:30 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/onedrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Drive</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/googledrive/</link>
+      <pubDate>Sat, 11 Jul 2020 17:51:32 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/googledrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adobe Acrobat Reader DC</title>
+      <link>https://www.auroracomputercenter.com/downloads/productivity/adobe_acrobat/</link>
+      <pubDate>Fri, 10 Jul 2020 09:26:56 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/productivity/adobe_acrobat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

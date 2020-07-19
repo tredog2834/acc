@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>downloads on Aurora Computer Center</title>
+    <link>https://www.auroracomputercenter.com/downloads/antivirus/</link>
+    <description>Recent content in downloads on Aurora Computer Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.auroracomputercenter.com/downloads/antivirus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Norton Antivirus Plus</title>
+      <link>https://www.auroracomputercenter.com/downloads/antivirus/norton/</link>
+      <pubDate>Sun, 12 Jul 2020 13:47:59 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/antivirus/norton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaspersky Anti-Virus</title>
+      <link>https://www.auroracomputercenter.com/downloads/antivirus/kaspersky/</link>
+      <pubDate>Sat, 11 Jul 2020 21:23:23 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/antivirus/kaspersky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitdefender Antivirus Plus</title>
+      <link>https://www.auroracomputercenter.com/downloads/antivirus/bitdefender/</link>
+      <pubDate>Fri, 10 Jul 2020 09:36:37 -0400</pubDate>
+      
+      <guid>https://www.auroracomputercenter.com/downloads/antivirus/bitdefender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
