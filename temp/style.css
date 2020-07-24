@@ -9,6 +9,7 @@ body {
   	line-height: 1; font-family: 'Roboto', sans-sans-serif;
 }
 
+
 .app-header {
   background:#111111;
   box-shadow: 3px 3px 10px #888;
@@ -49,6 +50,14 @@ margin-bottom: 16px;
  padding-top: 20px;
 }
 
+.nav-main {
+  display:none;
+}
+
+.hlink{
+  display:none;
+}
+
 .subheader {
   background: rgba(25, 25, 25, .95);
   color: #fff;
@@ -64,6 +73,10 @@ margin-bottom: 16px;
 
 .subheader a {text-decoration: none; color: #fff; text-transform: uppercase;}
 
+  .subheader-main {
+display:none;
+  }
+
 .app-main {
 width: 90%;
 margin: 0 auto;
@@ -78,6 +91,8 @@ padding: 5px 7px;
 margin-bottom: 8px;
 }
 
+
+
 .app-main .story {
 text-indent:16px;
 font-size:14px;
@@ -91,6 +106,7 @@ margin-bottom: 25px;
 
 .app-main img {
 width:80%;
+max-width: 400px;
 margin: 0 10%;
 padding-top: 10px;
 }
@@ -111,6 +127,10 @@ padding-top: 10px;
 display:none;
 }
 
+.extlinks {
+display:none;
+}
+
 .app-footer .copy {
   width:90%;
 margin: 10px auto 0;
@@ -118,6 +138,7 @@ line-height: 40px;
 text-align: center;
 }
 
+/* IPAD DISPLAY */
 @media (min-width:768px) {
 
   .app-main .dater {
@@ -128,28 +149,118 @@ text-align: center;
     FONT-SIZE: 12px;
   }
 
+  .hlink{
+    display:block;
+  }
+
 }
 
-/* SPLASH */
-#splash {
-  position:absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  background-color: rgba(25, 25, 25);
-  z-index: 2;
+/* Desktop DISPLAY */
+@media (min-width:955px) {
+  .subheader {
+    display: none;
+  }
+
+  .app-header .container {
+  min-width: 940px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  color:#EEEEEE;
+  font-size:13px;
+  }
+
+  .nav-main {
+    display:contents;
+  }
+
+  A.head:link {text-decoration: none; color:#FFF; padding-top: 88px; }
+  A.head:visited {text-decoration: none; color:#FFF;}
+  A.head:active {text-decoration: none; color:#FFF;}
+  A.head:hover {text-decoration: underline; color: #FF6600;}
+
+  A.down:link {text-decoration: none; color:#000066;}
+  A.down:visited {text-decoration: none; color:#000066;}
+  A.down:active {text-decoration: none; color:#000066;}
+  A.down:hover {text-decoration: none; color: #FF6600;}
+
+  .app-header .logo {
+  margin-bottom: 0px;
+  }
+
+  .headr .number {
+   font-size: 24px;
+  }
+
+  .sub-container {
+    min-width: 940px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .subheader-main {
+    background: rgba(25, 25, 25, .95);
+    color: #fff;
+    box-shadow: 3px 3px 10px #888;
+    margin: 0 auto 16px auto;
+    width: 100%;
+    font-size: 12px;
+    padding: 10px;
+    display:block;
+  }
+
+  .subheader a {text-decoration: none; color: #fff; text-transform: uppercase;}
+
+
+
+  .app-main {
+    max-width: 900px;
+  margin: 50px auto 0px;
+  }
+
+  .app-main .dater {
+    display: inline;
+    float: right;
+    padding-top: 10px;
+    text-align:right;
+    FONT-SIZE: 12px;
+  }
+
+  .app-main .title {
+  font-size:26px;
+  }
+
+  .app-main .story {
+  text-indent:18px;
+  font-size:16px;
+  line-height: 1.3;
+  }
+
+
+.extlinks{
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  transition: opacity 1s;
+  justify-content: space-between;
+  width: 900px;
+  margin: 20px auto 10px;
 }
 
-#splash img {
-  width: 300px;
-}
+  .app-footer .footer-nav {
+  display:inline;
+  }
 
-#splash.fade {
-  opacity: 0;
+  .app-footer .copy {
+    width: 900px;
+  margin: 10px auto 0;
+  line-height: 40px;
+  text-align: left;
+  }
+
+A.foot:link {text-decoration: none; color:#FFF;}
+A.foot:visited {text-decoration: none; color:#FFF;}
+A.foot:active {text-decoration: none; color:#FFF;}
+A.foot:hover {text-decoration: underline; color: #FF6600;}
+
+
 }
