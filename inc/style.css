@@ -212,6 +212,7 @@ ul.leaders {
   line-height: 25px;
   overflow-x: hidden;
   list-style: none;
+  font-size: 10px;
 }
 
 ul.leaders li:before {
@@ -326,10 +327,19 @@ border-radius: 5px;
 font-family: Roboto, arial, tahoma;
 }
 
+/* Large Phone DISPLAY */
+@media (min-width:374px) {
+ul.leaders {
+font-size: 12px;
+}
+}
 
 /* IPAD DISPLAY */
 @media (min-width:768px) {
 
+  ul.leaders {
+  font-size: 16px;
+  }
 
   .app-main .dater {
     display: inline;
