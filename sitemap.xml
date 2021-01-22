@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/products/ryzen3200g/</loc>
-    <lastmod>2020-07-11T15:34:14-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.auroracomputercenter.com/systems/uc60/</loc>
     <lastmod>2020-07-11T16:44:37-04:00</lastmod>
   </url>
@@ -35,11 +30,6 @@
   <url>
     <loc>https://www.auroracomputercenter.com/phones/s406/</loc>
     <lastmod>2020-07-11T15:58:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.auroracomputercenter.com/products/ryzen3400g/</loc>
-    <lastmod>2020-07-11T15:38:00-04:00</lastmod>
   </url>
   
   <url>
@@ -68,27 +58,57 @@
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/2020_labor_day/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/201221_xmas_hours/</loc>
+    <lastmod>2020-12-21T09:46:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/201127_win7_zeroday/</loc>
+    <lastmod>2020-11-27T09:46:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/201109_win10_bug/</loc>
+    <lastmod>2020-11-09T09:46:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/201102_remc_sei/</loc>
+    <lastmod>2020-11-02T09:46:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/201030_xfinity_norton/</loc>
+    <lastmod>2020-10-30T09:46:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/201029_win10_flash/</loc>
+    <lastmod>2020-10-29T09:46:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/200905_labor_day/</loc>
     <lastmod>2020-09-05T09:46:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/internet_explorer/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200903_internet_explorer/</loc>
     <lastmod>2020-09-03T09:26:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/third_street_construction/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200817_third_street_construction/</loc>
     <lastmod>2020-08-17T08:36:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/dvdvhs_conversion/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200810_dvdvhs_conversion/</loc>
     <lastmod>2020-08-10T08:58:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/2020_07_25_twitter_hack/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200725_twitter_hack/</loc>
     <lastmod>2020-07-25T07:03:51-04:00</lastmod>
   </url>
   
@@ -643,23 +663,43 @@
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/holiday_hours/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200627_holiday_hours/</loc>
     <lastmod>2020-06-27T10:53:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/password_security/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200622_password_security/</loc>
     <lastmod>2020-06-22T09:40:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/indianabackontrack/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200502_indianabackontrack/</loc>
     <lastmod>2020-05-02T09:40:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.auroracomputercenter.com/posts/zoom/</loc>
+    <loc>https://www.auroracomputercenter.com/posts/200402_zoom/</loc>
     <lastmod>2020-04-02T09:40:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/200319_covid/</loc>
+    <lastmod>2020-03-19T09:40:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/200316_remote/</loc>
+    <lastmod>2020-03-16T09:40:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/200312_wormable_flaw/</loc>
+    <lastmod>2020-03-12T09:40:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.auroracomputercenter.com/posts/200227_firefox/</loc>
+    <lastmod>2020-02-27T09:40:51-04:00</lastmod>
   </url>
   
   <url>

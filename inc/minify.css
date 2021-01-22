@@ -1,0 +1,106 @@
+/* Small Phone DISPLAY MAIN CSS */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html,body { line-height: 1; font-family: 'Roboto', sans-sans-serif; }
+.clear { clear: both; }
+A.navlink:link { text-decoration: none; color: #FFF; }
+A.navlink:visited { text-decoration: none; color: #FFF; }
+A.navlink:active { text-decoration: none; color: #FFF; }
+A.navlink:hover { text-decoration: underline; color: #FF6600; }
+A.down:link { text-decoration: none; color: #000066; }
+A.down:visited { text-decoration: none; color: #000066; }
+A.down:active { text-decoration: none; color: #000066; }
+A.down:hover { text-decoration: none; color: #FF6600; }
+A.down2:link { text-decoration: none; color: #006600; }
+A.down2:visited { text-decoration: none; color: #006600; }
+A.down2:active { text-decoration: none; color: #006600; }
+A.down2:hover { text-decoration: underline; color: #FF6600; }
+A.down3:link { text-decoration: none; color:#3366FF; }
+A.down3:visited { text-decoration: none; color:#3366FF; }
+A.down3:active { text-decoration: none; color:#3366FF; }
+A.down3:hover { text-decoration: underline; color: #FF6600; }
+.descdown { line-height: 22px; text-indent: 22px; }
+.app-header { background: #111111; box-shadow: 3px 3px 10px #888; }
+.container { width: 95%; margin: 0 auto; padding: 10px; }
+.app-header .container { display: flex; flex-direction: row; padding: 15px 10px; justify-content: space-between; }
+.app-header .logo { margin-bottom: 16px; display: inline; }
+.headr { display: inline; float: right; padding-top: 5px; text-align: right; }
+.headr img { width: 30px; height: 30px; }
+.headr .number { padding-top: 20px; }
+.number2 { color: #fff; font-size: 20px; text-decoration: none; }
+.nav-main { display: none; }
+.hlink { display: none; }
+.subheader { background: rgba(25, 25, 25, .95); color: #fff; box-shadow: 3px 3px 10px #888; margin: 0 auto 16px auto; width: 95%; font-size: 14px; padding: 10px; display: flex; align-items: center; justify-content: space-around; }
+.subheader a { text-decoration: none; color: #fff; text-transform: uppercase; }
+.subheader-main { display: none; }
+.app-main { width: 90%; margin: 0 auto;}
+.app-main .title {width: 100%; background-color: #DDDDDD; font-size: 20px; color: #000066; padding: 5px 7px 5px 15px; margin-bottom: 8px; }
+.app-main .story { text-indent: 16px; font-size: 14px; line-height: 20px; margin-bottom: 45px; }
+.desc1 { margin-bottom: 8px; margin-left: 8px; }
+.desc2 { text-indent: 10px; margin-top: 20px; font-size: 14px; line-height: 22px; }
+.desc3 { height: 60px; margin-top: 20px; font-size: 12px; }
+.descimg { width: 250px; margin-right: 50px; }
+ul.leaders { max-width: 720px; padding: 0; line-height: 25px; overflow-x: hidden; list-style: none; font-size: 10px; }
+ul.leaders li:before { float: left; width: 0; white-space: nowrap; content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "; }
+ul.leaders span:first-child { padding-right: 0.33em; background: #fff; }
+ul.leaders span+span { float: right; padding-left: 0.33em; background: #fff; font-weight: bold; }
+.app-main .dater { display: none; }
+.storyimg { width: 80%; max-width: 400px; margin: 0 1%; padding-top: 10px; }
+.pricer { display: inline; float: right; padding-top: 8px; padding-right: 5px; text-align: right; FONT-SIZE: 16px; font-weight: bold; COLOR: #000066; }
+.app-footer { background: #464646; color: #fff; font-size: 12px; }
+.app-footer .divider { background-color: #00D9FF; width: 100%; height: 10px;}
+.app-footer .footer-nav { display: none; }
+.extlinks { display: none; }
+.app-footer .copy { width: 90%; margin: 10px auto 0; line-height: 40px; text-align: center; }
+.title2 { width: 100%; background-color: #DDDDDD; font-size: 20px; color: #000066; padding: 5px 7px 5px 15px; }
+.netform { padding:50px 60px 30px; background-color: #F2F3F4; font-family: 'Roboto', arial, tahoma; }
+form input{ width:100%; max-width: 600px; height: 40px; padding-left:10px; margin-bottom:20px; border-color: #DDD; border-radius: 5px; font-family: 'Roboto', arial, tahoma; }
+form textarea{ width:100%; max-width: 600px; height: 200px; padding:10px; margin-bottom:20px; border-color: #DDD; border-radius: 5px; font-family: Roboto, arial, tahoma; }
+
+/* Large Phone DISPLAY */
+@media (min-width:374px) {
+  ul.leaders { font-size: 12px; }
+}
+
+/* IPAD DISPLAY */
+@media (min-width:768px) {
+  ul.leaders { font-size: 16px; }
+  .app-main .dater { display: inline; float: right; padding-top: 5px; text-align: right; FONT-SIZE: 12px; }
+  .main-width { max-width: 740px; }
+  .number2 { font-size: 24px; }
+  .hlink { display: block; }
+  .desc2 { font-size: 15px; display:table-cell; vertical-align:top; }
+  .descimg { float: left; width: 200px; }
+  .desc3 { font-size: 16px; }
+  .pricer { FONT-SIZE: 22px; }
+}
+
+/* Desktop DISPLAY */
+@media (min-width:955px) {
+  .subheader { display: none; }
+  .app-header .container { min-width: 940px; max-width: 1000px; margin-left: auto; margin-right: auto; color: #EEEEEE; font-size: 13px; }
+  .nav-main { display: contents; }
+  A.head:link { text-decoration: none; color: #FFF; margin-top: 88px; }
+  A.head:visited { text-decoration: none; color: #FFF; }
+  A.head:active { text-decoration: none; color: #FFF; }
+  A.head:hover { text-decoration: underline; color: #FF6600; }
+  .app-header .logo { margin-bottom: 0px; margin-right: 20px; }
+  .headr { margin-left: 20px; }
+  .sub-container { min-width: 940px; max-width: 1000px; margin-left: auto; margin-right: auto; }
+  .subheader-main { background: rgba(25, 25, 25, .95); color: #fff; box-shadow: 3px 3px 10px #888; margin: 0 auto 16px auto; width: 100%; font-size: 12px; padding: 10px; display: block; }
+  .subheader a { text-decoration: none; color: #fff; text-transform: uppercase; }
+  .app-main { max-width: 900px; margin: 50px auto 0px; }
+  .app-main .dater { display: inline; float: right; padding-top: 10px; text-align: right; FONT-SIZE: 12px; }
+  .app-main .title { font-size: 26px; }
+  .title2 { font-size: 26px; }
+  .app-main .story { text-indent: 18px; font-size: 16px; line-height: 25px; }
+  ul.leaders { line-height: 28px; }
+  .extlinks { display: flex; align-items: center; justify-content: space-between; width: 900px; margin: 20px auto 10px; }
+  .app-footer .footer-nav { display: inline; }
+  .app-footer .copy { width: 900px; margin: 10px auto 0; line-height: 40px; text-align: left; }
+  A.foot:link { text-decoration: none; color: #FFF; }
+  A.foot:visited { text-decoration: none; color: #FFF; }
+  A.foot:active { text-decoration: none; color: #FFF; }
+  A.foot:hover { text-decoration: underline; color: #FF6600; }
+  .descimg { width: 250px; }
+  .descdiv { display:table-cell; }
+}
